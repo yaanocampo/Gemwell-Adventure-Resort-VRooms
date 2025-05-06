@@ -675,7 +675,7 @@ body {
     .band-content p,
     .horse-content p {
       max-width: 100%;
-      width: 100%;
+      width: 90%;
       height: auto;
     }
   

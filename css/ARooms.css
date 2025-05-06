@@ -335,6 +335,16 @@ body {
         height: auto;
     }
 
+    .nav-links2 a{
+        width: 70px;
+
+    }
+
+    .nav-links2 li {
+        margin: 0 5px; /* Space between links */
+        font-family: "DINOT-REGULAR";
+    }
+
     .logo img {
         height: 60px;
         width: 60px;

@@ -435,6 +435,11 @@ font-family: "DINOT-Regular";
     .guest-card {
         width: 90%;
     }
+
+    .flex-container {
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
 
