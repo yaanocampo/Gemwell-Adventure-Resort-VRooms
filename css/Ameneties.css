@@ -678,6 +678,10 @@ body {
       width: 90%;
       height: auto;
     }
+
+    .adventure-content h1 {
+      font-size: 3.5em;
+    }
   
     .water-slide-container {
       height: auto;
